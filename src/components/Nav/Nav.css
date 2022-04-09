@@ -5,4 +5,5 @@
 .nav-container a {
     margin: 0 20px;
     color: black;
+    text-decoration: none;
 }
